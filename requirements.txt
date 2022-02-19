@@ -6,5 +6,5 @@ tgcrypto
 python-dotenv
 py-tgcalls
 youtube-search-python
-git+https://github.com/LEGEND-OS/pyrogram
+pyrogram
 git+https://github.com/LEGEND-OS/downloader
